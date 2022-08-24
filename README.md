@@ -1,4 +1,4 @@
-# Email-Spam-Classification-using-SVM
+# Spam-Email-Classification-using-SVM
 
 The codes above help to classify a given mail as a spam or non spam.
 
